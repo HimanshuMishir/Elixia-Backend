@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Elixia is a Web3.0 based application.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
