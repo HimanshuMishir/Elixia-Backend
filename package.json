@@ -1,0 +1,40 @@
+{
+  "name": "elixia-backend",
+  "version": "0.1.0",
+  "description": "Elixia is a Web3.0 based application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HimanshuMishir/Elixia-Backend.git"
+  },
+  "keywords": [
+    "Elixia",
+    "Web3.0",
+    "web3",
+    "Ethereum",
+    "Solidity",
+    "Mongodb",
+    "Fake",
+    "certificate",
+    "Detection"
+  ],
+  "author": "Elixia Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HimanshuMishir/Elixia-Backend/issues"
+  },
+  "homepage": "https://github.com/HimanshuMishir/Elixia-Backend#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.1",
+    "nodemon": "^2.0.15",
+    "qrcode": "^1.5.0"
+  }
+}
